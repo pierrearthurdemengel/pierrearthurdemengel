@@ -13,6 +13,7 @@ Symfony and Sylius developer based in Metz, France. I help e-commerce teams move
 - [I checked 802 Sylius plugins for Sylius 2 compatibility](https://dev.to/pierrearthurdemengel/i-checked-802-sylius-plugins-for-sylius-2-compatibility-here-is-what-i-found-4pde) (dev.to)
 - [Sylius 1.14 vers Sylius 2 : la checklist 2027](https://speakerdeck.com/demengel/sylius-2-checklist-2027) (Speaker Deck, in French)
 - [Agent IA sur une boutique Sylius : l'état des lieux 2027](https://speakerdeck.com/demengel/agent-ia-sylius-2027) (Speaker Deck, in French)
+- Videos on [YouTube](https://www.youtube.com/@pierrearthurdemengel): [Sylius 1.14 to Sylius 2 checklist](https://youtu.be/qF7TIXj3oXw), [AI agents on a Sylius shop](https://youtu.be/q4srccIVKAo), [PrestaShop 1.7 in 2027](https://youtu.be/TS8qdqpTN_8) (in French)
 
 ## Work with me
 
