@@ -1,6 +1,6 @@
 # Pierre-Arthur Demengel
 
-Symfony and Sylius developer based in Metz, France. I help e-commerce teams move from Sylius 1 to Sylius 2 before security support for Sylius 1.14 ends on 31 December 2026, and I build custom Sylius shops for companies whose current platform has become a constraint.
+Symfony and Sylius developer based in Metz, France. I help e-commerce teams move from Sylius 1 to Sylius 2 before security support for Sylius 1.14 ends on 31 December 2026, I build custom Sylius shops for companies whose current platform has become a constraint, and I connect shops to French e-invoicing (Factur-X, approved platforms, B2C e-reporting).
 
 ## Open source and research
 
@@ -10,6 +10,7 @@ Symfony and Sylius developer based in Metz, France. I help e-commerce teams move
 
 ## Writing and talks
 
+- [I wired my own Symfony invoicing to a French e-invoicing platform. Five things I learned.](https://dev.to/pierrearthurdemengel/i-wired-my-own-symfony-invoicing-to-a-french-e-invoicing-platform-five-things-i-learned-4035) (dev.to)
 - [I checked 802 Sylius plugins for Sylius 2 compatibility](https://dev.to/pierrearthurdemengel/i-checked-802-sylius-plugins-for-sylius-2-compatibility-here-is-what-i-found-4pde) (dev.to)
 - [Sylius 1.14 vers Sylius 2 : la checklist 2027](https://speakerdeck.com/demengel/sylius-2-checklist-2027) (Speaker Deck, in French)
 - [Agent IA sur une boutique Sylius : l'état des lieux 2027](https://speakerdeck.com/demengel/agent-ia-sylius-2027) (Speaker Deck, in French)
@@ -17,8 +18,9 @@ Symfony and Sylius developer based in Metz, France. I help e-commerce teams move
 
 ## Work with me
 
-Sylius 1 to 2 migrations, custom Sylius development, AI agents for Sylius shops, and white-label work for agencies. I start from your budget, everything stays in your name, and you talk directly to the developer.
+Sylius 1 to 2 migrations, custom Sylius development, AI agents for Sylius shops, e-invoicing integration, and white-label work for agencies. I start from your budget, everything stays in your name, and you talk directly to the developer.
 
 - English: [creation-site-pro.fr/en/sylius-2-upgrade](https://creation-site-pro.fr/en/sylius-2-upgrade?utm_source=github-profile)
 - Français : [creation-site-pro.fr/migration-sylius-2](https://creation-site-pro.fr/migration-sylius-2?utm_source=github-profile)
+- E-invoicing (français) : [creation-site-pro.fr/solutions/integration-facturation-electronique](https://creation-site-pro.fr/solutions/integration-facturation-electronique?utm_source=github-profile)
 - [LinkedIn](https://www.linkedin.com/in/pierre-arthur-demengel)
